@@ -1,5 +1,12 @@
-# 💫 About Me:
-# 👋 Hey, I'm Rajarshi Das  <br>🎓 B.Tech CSE (3rd Year) – RCC Institute of Information Technology, Kolkata  <br>💼 Ex–Full Stack Intern (Allotrope • Neosao)<br><br>## 🧑‍🚀 About Me :<br><br>🛠 I’m currently working on: An Aptos-based Soulbound Reputation System & an AI Railway Video Surveillance System  <br>🤝 I’m looking to collaborate on: AI + Computer Vision projects & SaaS-based full-stack apps  <br>🆘 I’m looking for help with: Advanced Aptos Move smart contracts  <br>🌱 I’m currently learning: System Design & real-time AI deployment  <br>💭 Ask me about: Full-stack development, OpenCV, AI-based automation projects  <br>⚡ Fun fact: I start projects faster than I finish them 😄<br>
+### 💫 About Me:
+### 👋 Hey, I'm Rajarshi Das  <br>🎓 B.Tech CSE (3rd Year) – RCC Institute of Information Technology, Kolkata  <br>💼 Ex–Full Stack Intern (Allotrope • Neosao)<br><br>### 🧑‍🚀 About Me :<sub><sub>
+🛠 I'm currently working on: An Aptos-based Soulbound Reputation System & an AI Railway Video Surveillance System
+🤝 I'm looking to collaborate on: AI + Computer Vision projects & SaaS-based full-stack apps
+🆘 I'm looking for help with: Advanced Aptos Move smart contracts
+🌱 I'm currently learning: System Design & real-time AI deployment
+💭 Ask me about: Full-stack development, OpenCV, AI-based automation projects
+⚡ Fun fact: I start projects faster than I finish them 😄
+</sub></sub>
 
 
 ## 🌐 Socials:
@@ -25,7 +32,7 @@
 [![](https://visitcount.itsvg.in/api?id=noobremon&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9051549362) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](/https://buymeacoffee.com/noobremon) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
