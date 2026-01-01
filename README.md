@@ -5,7 +5,7 @@
 🆘 I'm looking for help with: Advanced Aptos Move smart contracts<br>
 🎯 Currently seeking:Full-stack / AI / Computer Vision internship or project opportunities — remote or on-site<br>
 💭 Ask me about: Full-stack development, OpenCV, AI-based automation projects<br>
-⚡ Fun fact: I start projects faster than I finish them 😄
+⚡ Fun fact: My GitHub is full of half-built genius ideas waiting for their grand finale 😄
 </sub></sub>
 
 
