@@ -1,9 +1,9 @@
 ### 💫 About Me:
 ### 👋 Hey, I'm Rajarshi Das  <br>🎓 B.Tech CSE (3rd Year) – RCC Institute of Information Technology, Kolkata  <br>💼 Ex–Full Stack Intern (Allotrope • Neosao)<br><br>### 🧑‍🚀 About Me :<sub><sub>
-🛠 I'm currently working on: An Aptos-based Soulbound Reputation System & an AI Railway Video Surveillance System<br>
+🛠 I'm currently working on: AI-Powered Abdominal Imaging — automated organ abnormality detection using multimodal analysis.<br>
 🤝 I'm looking to collaborate on: AI + Computer Vision projects & SaaS-based full-stack apps<br>
 🆘 I'm looking for help with: Advanced Aptos Move smart contracts<br>
-🌱 I'm currently learning: System Design & real-time AI deployment<br>
+🎯 Currently seeking:Full-stack / AI / Computer Vision internship or project opportunities — remote or on-site<br>
 💭 Ask me about: Full-stack development, OpenCV, AI-based automation projects<br>
 ⚡ Fun fact: I start projects faster than I finish them 😄
 </sub></sub>
